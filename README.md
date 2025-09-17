@@ -16,7 +16,8 @@ A comprehensive MySQL database system designed to streamline tailoring business 
 
 ## 📊 Entity Relationship Diagram
 
-![ER Diagram](diagrams/tailoring_ERD.png)
+![ER Diagram](Tailoring_Management_Database.drawio.png)
+
 
 ## 🗃️ Database Schema
 
