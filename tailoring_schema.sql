@@ -1,5 +1,5 @@
 -- Tailoring Management Database Schema
--- Author: [Your Name]
+-- Author: snowflakelogic
 -- Created: 2024
 
 CREATE DATABASE IF NOT EXISTS tailor;
