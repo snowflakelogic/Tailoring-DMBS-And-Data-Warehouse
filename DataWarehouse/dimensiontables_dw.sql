@@ -1,5 +1,3 @@
-use tailor_dw 
-Database changed 
 mysql> -- ===================================================== 
 mysql> -- DATA WAREHOUSE STAR SCHEMA FOR TAILORING BUSINESS 
 mysql> -- ===================================================== 
