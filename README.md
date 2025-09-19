@@ -1,24 +1,7 @@
 # 🧵 Tailoring Enterprise Business Intelligence & Data Warehousing System 
-## SQL Analytics & Data Warehouse Solution
-
+## SQL Analytics - DBMS & Data Warehouse Solution
+---
 ![ER Diagram](Tailoring_Management_Database.drawio.png)
-
-> **Enterprise-grade Business Intelligence solution showcasing advanced SQL, dimensional modeling, and data warehousing expertise for tailoring business analytics.**
-
----
-
-## 🎯 **Business Intelligence Objectives**
-
-**Problem**: Traditional tailoring businesses lack data-driven decision making capabilities  
-**Solution**: Complete BI ecosystem with OLTP operations + OLAP analytics  
-**Impact**: 60% improvement in order completion tracking, revenue insights, and performance KPIs
-
-### **Core BI Competencies Demonstrated**
-- **Dimensional Modeling** • Star Schema Design • **ETL Processes**
-- **Advanced SQL Analytics** • Performance Optimization • **Business Metrics**
-- **Data Warehousing** • OLTP/OLAP Architecture • **Predictive Insights**
-
----
 
 ## 🏗️ **Data Architecture & Schema Design**
 
@@ -44,6 +27,23 @@ dim_payment ---->   fact_orders   <---- dim_garment
                 (status_key,...)
 
 ```
+
+> **Enterprise-grade Business Intelligence solution showcasing advanced SQL, dimensional modeling, and data warehousing expertise for tailoring business analytics.**
+
+---
+
+## 🎯 **Business Intelligence Objectives**
+
+**Problem**: Traditional tailoring businesses lack data-driven decision making capabilities  
+**Solution**: Complete BI ecosystem with OLTP operations + OLAP analytics  
+**Impact**: 60% improvement in order completion tracking, revenue insights, and performance KPIs
+
+### **Core BI Competencies Demonstrated**
+- **Dimensional Modeling** • Star Schema Design • **ETL Processes**
+- **Advanced SQL Analytics** • Performance Optimization • **Business Metrics**
+- **Data Warehousing** • OLTP/OLAP Architecture • **Predictive Insights**
+
+---
 ## 📈 **Business Intelligence Results**
 
 ### **Key Performance Indicators**
